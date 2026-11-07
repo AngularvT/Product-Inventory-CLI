@@ -1,0 +1,17 @@
+{
+  "next_id": 4,
+  "products": [
+    {
+      "id": 1,
+      "name": "Pencil",
+      "price": "1.25",
+      "quantity": 12
+    },
+    {
+      "id": 3,
+      "name": "Pencil",
+      "price": "1.25",
+      "quantity": 5
+    }
+  ]
+}
